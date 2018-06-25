@@ -1,6 +1,6 @@
 ##------------------------------------------
 ##--- Author: Pradeep Singh
-##--- Blog: https://iotbytes.wordpress.com/
+##--- Blog: https://iotbytes.wordpress.com/incoming-call-details-logger-with-raspberry-pi/
 ##--- Date: 12 Jan 2018
 ##--- Version: 1.0
 ##--- Python Ver: 2.7
